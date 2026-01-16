@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: process.env.VITE_BASE_URL || '/janish_majith.me',
   build: {
-    chunkSizeWarningLimit: 1000,
+    chunkSizeWarningLimit: 1500,
   },
 })
