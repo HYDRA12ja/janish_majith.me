@@ -1,0 +1,157 @@
+{
+  "profile": {
+    "id": "1767241831428",
+    "deviceId": 4,
+    "name": "assingment",
+    "isDefault": false
+  },
+  "key": {
+    "mouseInfo": {
+      "left": {
+        "text": "left_button",
+        "defaultText": "left_button",
+        "selected": false,
+        "defaultVal": "0x01010100",
+        "value": "0x01010100",
+        "pos": 0,
+        "posText": "left"
+      },
+      "right": {
+        "text": "right_button",
+        "defaultText": "right_button",
+        "selected": false,
+        "defaultVal": "0x01020100",
+        "value": "0x01020100",
+        "pos": 4,
+        "posText": "right"
+      },
+      "mid": {
+        "text": "Enter",
+        "defaultText": "mid_button",
+        "selected": true,
+        "defaultVal": "0x01030100",
+        "value": "0x00000028",
+        "pos": 8,
+        "posText": "mid"
+      },
+      "forward": {
+        "text": "copy",
+        "defaultText": "forward",
+        "selected": false,
+        "defaultVal": "0x01040100",
+        "value": "0x00010600",
+        "pos": 16,
+        "posText": "forward"
+      },
+      "back": {
+        "text": "paste",
+        "defaultText": "back",
+        "selected": false,
+        "defaultVal": "0x01050100",
+        "value": "0x00011900",
+        "pos": 12,
+        "posText": "back"
+      }
+    }
+  },
+  "sensor": {
+    "straightLineCorrection": false,
+    "rippleControl": false,
+    "motionSync": false,
+    "workingMode": 1,
+    "reportRate": 0,
+    "debounce": 5,
+    "lodAltitude": 1,
+    "sleep": 1,
+    "dpiGear": 3,
+    "dpiLevelNum": 6,
+    "dpiSingleAdjust": false,
+    "dpiLevel": [
+      {
+        "name": 1,
+        "dpi": 800,
+        "dpiX": 800,
+        "dpiY": 800,
+        "defaultDpi": 800,
+        "primaryColor": "rgba(255, 0, 0, 0.2)",
+        "secondaryColor": "rgb(255, 0, 0)",
+        "color": {
+          "r": 255,
+          "g": 0,
+          "b": 0
+        }
+      },
+      {
+        "name": 2,
+        "dpi": 1600,
+        "dpiX": 1600,
+        "dpiY": 1600,
+        "defaultDpi": 1600,
+        "primaryColor": "rgba(0, 255, 0, 0.2)",
+        "secondaryColor": "rgb(0, 255, 0)",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 0
+        }
+      },
+      {
+        "name": 3,
+        "dpi": 2400,
+        "dpiX": 2400,
+        "dpiY": 2400,
+        "defaultDpi": 2400,
+        "primaryColor": "rgba(0, 0, 255, 0.2)",
+        "secondaryColor": "rgb(0, 0, 255)",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 255
+        }
+      },
+      {
+        "name": 4,
+        "dpi": 3200,
+        "dpiX": 3200,
+        "dpiY": 3200,
+        "defaultDpi": 3200,
+        "primaryColor": "rgba(255, 0, 255, 0.2)",
+        "secondaryColor": "rgb(255, 0, 255)",
+        "color": {
+          "r": 255,
+          "g": 0,
+          "b": 255
+        }
+      },
+      {
+        "name": 5,
+        "dpi": 6400,
+        "dpiX": 6400,
+        "dpiY": 6400,
+        "defaultDpi": 6400,
+        "primaryColor": "rgba(255, 255, 0, 0.2)",
+        "secondaryColor": "rgb(255, 255, 0)",
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 0
+        }
+      },
+      {
+        "name": 6,
+        "dpi": 26000,
+        "dpiX": 26000,
+        "dpiY": 26000,
+        "defaultDpi": 26000,
+        "primaryColor": "rgba(0, 255, 255, 0.2)",
+        "secondaryColor": "rgb(0, 255, 255)",
+        "color": {
+          "r": 0,
+          "g": 255,
+          "b": 255
+        }
+      }
+    ]
+  },
+  "macros": []
+}
